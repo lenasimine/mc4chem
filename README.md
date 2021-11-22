@@ -9,7 +9,7 @@ Some instructions for how to find your 'saves' folder: https://savelocation.net/
 Tested using version 1.17.1 but it is likely transferable. 
 
 If you teach pchem, please feel free to use this as basis for your own minigame. 
-If you do, please don't forget to give us credit, follow us on twitter (@McGillChemOut, @thesiminegroup), and keep in touch :) 
+If you do, please don't forget to give us credit, follow us on twitter (@thesiminegroup, @McGillChemOut), and keep in touch :) 
 
 McGill University MC4Chem Team,
 
