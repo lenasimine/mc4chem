@@ -1,8 +1,7 @@
 # mc4chem
 minecraft minigames for chemistry
 
-
-This is our first minecraft minigame aimed at undergraduates taking physical chemistry.
+This is our first minecraft minigame developed by McGill MC4Chem science outreach team. This one is aimed at undergraduates taking physical chemistry
 We hope this map will make your prep for the final a little funner!
 
 Just download mc4chem.zip, upzip in your 'saves' folder and see how far you get.
