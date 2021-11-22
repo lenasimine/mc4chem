@@ -8,6 +8,8 @@ Just download mc4chem.zip, upzip in your 'saves' folder and see how far you get.
 Some instructions for how to find your 'saves' folder: https://savelocation.net/minecraft 
 Tested using version 1.17.1 but it is likely transferable. 
 
+Please feel free to use this as basis for your own minigame, but if you do, please don't forget to give us credit, follow us on twitter (@McGillChemOut, @thesiminegroup), and keep in touch :) 
+
 McGill University MC4Chem Team,
 
 Isabella Vitesse, Victor Cozea, Caleb Liu, Dr. Lena Simine
